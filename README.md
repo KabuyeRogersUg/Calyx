@@ -1,2 +1,2 @@
 # Calyx
-Calyx scripting programming language.
+A friendly scripting programming language.
